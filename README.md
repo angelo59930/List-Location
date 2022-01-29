@@ -4,4 +4,4 @@ the goal of this project is lear how to use:
 - Modal
 - FlatList
 - useState
-at the same time, with this, i had a first contact with React-Native 
+at the same time, with this, i had a first contact with React-Native
