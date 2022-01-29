@@ -1,4 +1,4 @@
-# Proyect List of location in React-Native
+# Proyect List of location with React-Native
 the goal of this project is lear how to use:
 - Mapview
 - Modal
